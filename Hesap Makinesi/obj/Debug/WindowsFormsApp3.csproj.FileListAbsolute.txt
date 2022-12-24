@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Hesap Makinesi.exe
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Hesap Makinesi.pdb
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Hesap Makinesi.exe
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Hesap Makinesi.pdb
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.ResolveComReference.cache
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
